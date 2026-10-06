@@ -1,0 +1,20 @@
+:root {
+  /* Ungu: warna utama (judul, panel, tombol utama) */
+  --primary: #7B2FBE;
+  --primary-tua: #4C1D95;
+  /* Pink → Jingga: warna aksen (progres, tombol Selanjutnya, tombol pilihan) */
+  --accent: #DB2777;
+  --accent-tua: #EA580C;
+  --tinta: #2B1745;
+  --krem: #FFFFFF;
+  --krem-2: #FBF5FF;
+  --garis: #E4D4F4;
+  /* Hijau: jawaban benar */
+  --hijau: #3FAE5A;
+  --hijau-tua: #2A8B45;
+  /* Merah: jawaban salah */
+  --salah: #DC2626;
+  --biru-muda: #F5EAFE;
+  --bayang: 0 16px 32px rgba(76, 29, 149, 0.18);
+  --bayang-kecil: 0 8px 20px rgba(43, 23, 69, 0.12);
+}
